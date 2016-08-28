@@ -1,5 +1,5 @@
 # 2om.stock
-scratch source for basic first step C++ C# coding
+scratch source for C++ C#
 Actually getting back to coding.
-Here's my step-by-step moves into C++ C#
+Here's my step-by-step moves into programming
 Welcome.
